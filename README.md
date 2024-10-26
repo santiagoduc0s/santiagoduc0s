@@ -25,12 +25,12 @@ I'm a Flutter developer passionate about crafting beautiful applications. I enjo
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 <h4> Cloud </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </span>
 
 <h4> IDE </h4>
