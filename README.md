@@ -21,7 +21,6 @@ I'm a Flutter developer passionate about crafting beautiful applications. I enjo
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
 <h4> Databases </h4>
