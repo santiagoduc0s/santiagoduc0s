@@ -26,6 +26,10 @@ I'm a Flutter developer passionate about crafting beautiful applications. I enjo
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</span>
+
+<h4> Cloud </h4>
+<span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
