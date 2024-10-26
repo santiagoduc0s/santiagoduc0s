@@ -45,7 +45,7 @@ I'm a Flutter developer passionate about crafting beautiful applications. I enjo
 
 <hr>
 <p align="center">
-   <i>"No tree, it is said, can grow to heaven unless its roots are in hell."</i>
+   <i>"Great things aren’t built overnight; they’re crafted step by step, with patience and passion."</i>
    <br>
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/santiago-ducos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
