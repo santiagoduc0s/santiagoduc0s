@@ -2,14 +2,11 @@
 
 ### Hi there 👋 I'm Santiago Ducos,
 
-I'm a Flutter developer passionate about building sleek and efficient applications. My coding journey has been fueled by curiosity and a strong drive to explore the world of technology.
+I'm a Flutter developer passionate about crafting beautiful applications. I enjoy solving problems and am dedicated to continuous learning in the mobile world.
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently expanding my expertise in:
-  - Flutter App Development
-  - Web Application Development
-- 💡 I'm intrigued by everything data-related: **Big Data, Cloud, Machine Learning, and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, or anything that sparks your curiosity.
+- 🍻 Outside of Code: I’m always up for a coffee shop chat or a good beer—perfect spots for inspiration!
+- ☀️ Team Summer: Nothing beats the energy of summer days.
+- 🌎 Friendly and Curious: I love the freedom of the home office, and I'm always excited to travel, meet new people, and experience different cultures.
 
 ## My Skills Include
 
