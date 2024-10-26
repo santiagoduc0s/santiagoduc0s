@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=SantiagoDucos)
 
-### Hi there 👋 I'm Santiago Ducos,
+### Hi there 👋 I'm Santiago Ducos 🇺🇾 (⭐⭐⭐⭐),
 
 I'm a Flutter developer passionate about crafting beautiful applications. I enjoy solving problems and am dedicated to continuous learning in the mobile world.
 
