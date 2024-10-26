@@ -21,6 +21,7 @@ I'm a Flutter developer passionate about crafting beautiful applications. I enjo
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> 
 </span>
 
 <h4> Databases </h4>
@@ -38,7 +39,7 @@ I'm a Flutter developer passionate about crafting beautiful applications. I enjo
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Other Tools </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </span>
